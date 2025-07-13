@@ -12,12 +12,13 @@ A responsive front-end Netflix homepage clone built using **HTML** and **CSS**. 
 
 ## 📂 Project Structure
 
+```plaintext
 Netflix-Clone/
-│
-├── index3.html         # Main HTML page
-├── style3.css          # Custom CSS styling
+├── index3.html       # Main HTML file
+├── style3.css        # Custom CSS styling
+└── images/           # Optional: local image assets (if used)
 ```
----
+
 
 ## 🚀 Features
 
